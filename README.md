@@ -1,6 +1,6 @@
 ![Header](https://github.com/KirylKarzhavin/KirylKarzhavin/blob/main/assets/mygif.gif)
 
-## I'm a system administrator and beginner front-end developer
+## !!!!
 
 ### Languages and Tools
 
